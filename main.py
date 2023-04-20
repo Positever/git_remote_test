@@ -24,6 +24,8 @@ if __name__ == '__main__':
     num9 = 90
     num10 = 100
     num11 = 101
+    num12 = 102
+
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
