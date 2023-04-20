@@ -12,13 +12,14 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print('Hello, I\'m tom')
+    print('Hello, I\'m jerry')
     num1 = 10
     num2 = 20
     num3 = 30
     num4 = 40
     num5 = 50
     num6 = 60
+    num7 = 70
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
