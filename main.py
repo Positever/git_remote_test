@@ -25,8 +25,14 @@ if __name__ == '__main__':
     num10 = 100
     num11 = 101
     num12 = 102
+<<<<<<< HEAD
     num133 = 13000
     num_jerry_added = 123456
+=======
+    num13 = 103
+    num14 = 104
+    num15 = 105
+>>>>>>> eb4d34cefbf4d8775c42620973657a3e9beefdb5
 
 
 
