@@ -25,12 +25,13 @@ if __name__ == '__main__':
     num10 = 100
     num11 = 101
     num12 = 102
-    num133 = 13000
-    num_jerry_added = 123456
     num13 = 103
     num14 = 104
     num15 = 105
     num16 = 106
+    num17 = 107
+    num18 = 108
+    num19 = 109
     
 
 
